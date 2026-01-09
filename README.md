@@ -1,0 +1,1 @@
+Aviator is an online crash-style betting game where players place a bet and watch a plane take off. The multiplier increases as the plane flies higher, and players must cash out before the plane flies away. The longer you wait, the higher the potential winnings — but if the plane crashes before you cash out, you lose your bet.
